@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallet1.1</string>
+    <string name="Welcome">Добро пожаловать в кошелек</string>
+    <string-array name="currency">
+        <item>euro</item>
+        <item>dollar</item>
+    </string-array>
+</resources>
